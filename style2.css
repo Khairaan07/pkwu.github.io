@@ -474,7 +474,7 @@ input[type="submit"]:hover {
     height: 100%; 
     left: 0; 
     top: 0; 
-    background: url("images/gambar12.jpg") no-repeat center; 
+    background: url("gambar12.jpg") no-repeat center; 
     background-size: cover; 
     filter: blur(50px); 
     z-index: -1; 
@@ -491,7 +491,7 @@ input[type="submit"]:hover {
    } 
     
    .left{ 
-    background: url("images/logoo.jpeg") no-repeat center; 
+    background: url("logoo.jpeg") no-repeat center; 
     background-size: cover; 
     height: 100%; 
    } 
