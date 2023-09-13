@@ -298,6 +298,8 @@ img{
       font-size: 2rem;
       cursor: pointer;
       color: var(--white-color);
+      margin-top: -40px;
+        
     }
     .header-active .navOpen-btn{
       color: var(--text-color);
